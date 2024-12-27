@@ -281,9 +281,9 @@ class DawnValidatorBot:
     def display_welcome() -> None:
         print(f"""
 {Colors.INFO}{Style.BRIGHT}╔══════════════════════════════════════════════╗
-║            Dawn Validator AutoBot            ║
-║     Github: https://github.com/IM-Hanzou     ║
-║      Welcome and do with your own risk!      ║
+║      Dawn Validator AutoBot By Satyam        ║
+║     Join Telegram - @CryptoSatyam1           ║
+║      Bhai Log Apne Risk Par Use Karo!        ║
 ╚══════════════════════════════════════════════╝{Colors.RESET}
 """)
 
